@@ -1,0 +1,1 @@
+// VacationViewModel.kt Beispielinhalt

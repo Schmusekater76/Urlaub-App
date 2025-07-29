@@ -1,0 +1,1 @@
+// VacationRepository.kt Beispielinhalt
