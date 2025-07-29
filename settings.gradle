@@ -1,1 +1,1 @@
-// settings.gradle Beispielinhalt
+include ':app'
